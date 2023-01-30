@@ -1,0 +1,2 @@
+program Test;
+const XyZ234 = 20;
